@@ -1,8 +1,27 @@
-# terceiroappflutter
 
-Meu terceiro app flutter do Curso
+## Aplicativo para Calcular qual o Melhor Combustível para um Veículo, Álcool ou Gasolina
+#### Trata-se de um aplicativo simples, para aplicar conceitos de um Curso de Flutter da Udemy! #App3
 
-## Getting Started
+### Conceitos | Implementações:
+- Widgets e Material design
+- Estrutura de um App
+- Formatação de campos e textos
+- Botões
+- Espaçamentos
+- Alinhamentos
+- Imagens
+- Layout base com Scaffold e SingleChildScrollView
+- Stateless & Stateful
+- Gesture Detector
+- Conversão de valores tryParse
+- Operações lógicas e exibição de resultados
+
+
+
+<img src = 'imagens/Combustivel.gif' width='350'/> 
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
